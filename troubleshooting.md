@@ -7,22 +7,28 @@ We’ll use a tool called Qwiklabs, a Google training product. If you’ve used 
 ### Get monthly subscription
 Many code labs on Qwiklab are actually paid courses, you need to buy credits and then use credit to pay for the courses you want to learn. The Cloud Study Jam event makes these courses free to learn by giving you monthly subscription. With the monthly subscription, you can learn all courses for free within the month.
 At the event, we’ll give you a link and token for free Qwiklabs access. Make sure you check the opt-in box for promos, especially because that makes you eligible for additional free access after you complete the first series of labs.
-Suprisely it's not very easy to get monthly subscription. but the idea is that with access code, you will get 1 credit to do the first code lab (which cost 1 credit). after you are done with the first code lab, you will get one month subscription. 
-Follow the steps to get monthly subscription:
-* Sign out from qwiklab
-* Go to landing page: http://bit.ly/ML-StudyJam
-* Select the quest to enroll, (Your organizer chosen the quest, for example: Language processing study jam)
-* Enter Access code. (Your organizer have the access code, for example: <1s-seattle-1234>
-* Sign in qwiklab with your account
-* Click: Enroll to this quest, this will goes to the first code lab
-* Click ‘start lab’ button and choose "1 credit"
-* work on and complete the lab. When you done, end the lab
-* Go to your profile page, and refresh. You should see you have the monthly subscription. If not, try to logout/logon again.
-* For the next lab or future code labs, use ‘use subscription’ option when start the lab
 
-A few trouble shooting steps:
+Suprisely it's not very easy step to get monthly subscription. but the idea is that with access code, you will get 1 credit to do the first code lab (which cost 1 credit). after you are done with the first code lab, you will get one month subscription. 
+Follow the steps to get monthly subscription:
+1. Sign out from qwiklab
+2. Go to landing page: http://bit.ly/ML-StudyJam
+3. Select the quest to enroll, (Your organizer chosen the quest, for example: Language processing study jam)
+4. Enter Access code. (Your organizer have the access code, for example: <1s-seattle-1234>. note: the code works only on the event date. also double check NO typo in the access code).  
+5. Sign in qwiklab with your account
+6. Click: Enroll to this quest, this will goes to the first code lab. 
+7. Click ‘start lab’ button and choose "launch with 1 credit" option in the popup window
+8. work on and complete the lab. When you done, END the lab
+9. Go to your profile page, and refresh. You should see you have the monthly subscription. If not, try to logout/logon again.
+10. For the next lab or future code labs, use ‘use subscription’ option when start the lab
+
+If you have trouble to get 1 credit to start the first code lab, try these:
+* Repeat the steps 1~6 a few times. sometimes, it just works.
+* On step 6, if you already enrolled, you can unenroll and reenroll.  
 * when you sign out from qwiklab, make sure close all other tabs too. 
 * try to use the incognito window 
+* on Step 9, sometimes, it takes a few minutes to show monthly subscription, so wait a few minutes. if doesn't work, logout and login to see.
+* on Step 8, if you didn't complete the lab or time out, it's ok. you still can move on to step 9 to get monthly subscription. 
+* If try all kinds of ways but still can't get 1 credit or monthly subscription, ask your organizer to share credit with you (each organizer has 200 credits) to unblock you.
 
 ### Work on the first code lab
 * After code lab starts, the timer will start. You have one hour to complete all steps of this lab.  Note:
@@ -37,5 +43,29 @@ A few trouble shooting steps:
   - Each lab is self contained, with new user account, sessions, windows, tabs, etc..
 * After logon, open the cloud shell window, run the first command (gcloud auth list), you will have the following output:
 * 
+
+### How to share credit with others
+* Logon to your qwiklab account 
+* go to my account
+* click "credit & subscription"
+* click "share my credit with friends"
+* create a group, add credits to it. and then add emails of your friends
+* your friends will see credits in their account to use
+
+### How to add badget to linkedin profil
+when you completed all code labs in the quest (for example 5 code labs in the language processing quest), you will win completion badge which you can add to your linkedin profile.
+* go to my learning
+* click 'view public profile' at the right top of the page. click make it public
+* you will see the button "add to linkedin" and click 
+* it open up the add certificate form on linkedin (you might need to logon linkenin)
+* fill out the form:
+  - Name: copy the quest name (for example: name:  Intro to ML: Language Processing)
+  - Issuing organization: AICamp
+  - Not expired
+  - Crediential ID: copy the last texts on the qwiklab link url (for example: efa138538941)
+  - Credential URL: copy the qwiklab link  (for example, this is my badge url: https://www.qwiklabs.com/public_profiles/9ffee9bb-3a48-45f8-993a-efa138538941) 
+  - Save
+* You are done. you should see the certificate listed on your linkedin profile. share to your connections with your new badge!
+
 
 
