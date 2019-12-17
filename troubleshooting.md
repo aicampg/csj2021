@@ -72,5 +72,8 @@ when you completed all code labs in the quest (for example 5 code labs in the la
   - Save
 * You are done. you should see the certificate listed on your linkedin profile. share to your connections with your new badge!
 
+### Contact
+* we have slack channel for csj event discussion and Q&A. feel free to join with the invitation: https://bit.ly/2RO9TmO
+* My linkedIn: https://www.linkedin.com/in/billliu1202/
 
 
