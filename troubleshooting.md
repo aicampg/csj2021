@@ -1,14 +1,14 @@
 # Google Cloud Study Jam Instructions
 
 ## Before the event:
-We’ll use a tool called Qwiklabs, a Google training product. If you’ve used Qwiklabs before, great! Make sure you know your password. If you haven’t, save time by creating a new Qwiklabs account for yourself prior to the class at: https://google.qwiklabs.com/users/sign_up(creating an account is free). 
+We’ll use a tool called Qwiklabs, a Google training product. If you’ve used Qwiklabs before, great! Make sure you know your password. If you haven’t, save time by creating a new Qwiklabs account for yourself prior to the class at: [Qwiklab](https://google.qwiklabs.com/users/sign_up). (creating an account is free). 
 
 ## During the event
 ### Get monthly subscription
 Many code labs on Qwiklab are actually paid courses, you need to buy credits and then use credit to pay for the courses you want to learn. The Cloud Study Jam event makes these courses free to learn by giving you monthly subscription. With the monthly subscription, you can learn all courses for free within the month.
 At the event, we’ll give you a link and token for free Qwiklabs access. Make sure you check the opt-in box for promos, especially because that makes you eligible for additional free access after you complete the first series of labs.
 
-Suprisely it's not very easy step to get monthly subscription. but the idea is that with access code, you will get 1 credit to do the first code lab (which cost 1 credit). after you are done with the first code lab, you will get one month subscription. 
+Suprisely it's not very easy step to get monthly subscription. but the idea is that with access code, you will get 1 credit to do the first code lab (which costs 1 credit). after you are done with the first code lab, you will get one month subscription. 
 Follow the steps to get monthly subscription:
 1. Sign out from qwiklab
 2. Go to landing page: http://bit.ly/ML-StudyJam
@@ -52,7 +52,12 @@ If you have trouble to get 1 credit to start the first code lab, try these:
 * create a group, add credits to it. and then add emails of your friends
 * your friends will see credits in their account to use
 
-### How to add badget to linkedin profil
+### How to check my monthly subscription
+* logon to your qwiklab account
+* go to my account and click "credit & subscription"
+* if you see a list with "one month pass" and check the expiration date (should be the next month from the event date). otherwise, you don't have monthly subscription
+
+### How to add badge to linkedin profile
 when you completed all code labs in the quest (for example 5 code labs in the language processing quest), you will win completion badge which you can add to your linkedin profile.
 * go to my learning
 * click 'view public profile' at the right top of the page. click make it public
