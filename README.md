@@ -1,2 +1,2 @@
-# GoogleCloudStudyJam
+# Google Cloud Study Jam
 instructions
