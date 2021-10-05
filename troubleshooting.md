@@ -4,45 +4,38 @@
 We’ll use a tool called Qwiklabs, a Google training product. If you’ve used Qwiklabs before, great! Make sure you know your password. If you haven’t, save time by creating a new Qwiklabs account for yourself prior to the class at: [Qwiklab](https://google.qwiklabs.com/users/sign_up). (creating an account is free). 
 
 ## During the event
-### Get monthly subscription
-Many code labs on Qwiklab are actually paid courses, you need to buy credits and then use credit to pay for the courses you want to learn. The Cloud Study Jam event makes these courses free to learn by giving you monthly subscription. With the monthly subscription, you can learn all courses for free within the month.
-At the event, we’ll give you a link and token for free Qwiklabs access. Make sure you check the opt-in box for promos, especially because that makes you eligible for additional free access after you complete the first series of labs.
+### Get credits to run the first lab for free
+Many code labs on Qwiklab are paid courses, you need to buy credits for running the labs. The Cloud Study Jam event makes these labs free to learn by giving you monthly subscription. With the monthly subscription, you can learn all labs for free within the month.
+At the event, we’ll give you a link and access code for free Qwiklabs access. Make sure you check the opt-in box for promos, especially because that makes you eligible for additional free access after you complete the first series of labs.
 
-Suprisely it's not very easy step to get monthly subscription. but the idea is that with access code, you will get 1 credit to do the first code lab (which costs 1 credit). after you are done with the first code lab, you will get one month subscription. 
-Follow the steps to get monthly subscription:
-1. Sign out from qwiklab
-2. Go to landing page: http://bit.ly/ML-StudyJam
-3. Select the quest to enroll, (Your organizer chosen the quest, for example: Language processing study jam)
-4. Enter Access code. (Your organizer have the access code, for example: <1s-seattle-1234>. note: the code works only on the event date. also double check NO typo in the access code).  
-5. Sign in qwiklab with your account
-6. Click: Enroll to this quest, this will goes to the first code lab. 
-7. Click ‘start lab’ button and choose "launch with 1 credit" option in the popup window
-8. work on and complete the lab. When you done, END the lab
-9. Go to your profile page, and refresh. You should see you have the monthly subscription. If not, try to logout/logon again.
-10. For the next lab or future code labs, use ‘use subscription’ option when start the lab
+Follow the steps to get credits:
+1. Make sure to log out of Qwiklab first if you already signed in.
+2. Open “incognito window” on Chrome and Go to: https://go.qwiklabs.com/cloud-study-jams-2021 and scroll down to section ‘Machine Learning & Artificial Intelligence’  for the Quest: Perform Foundational Data, ML, and AI Tasks, and click “Enroll”
+3.  You will be prompted to enter your study jam code:
+          1s-seattle-3278
+          (note: the code only works at the event date)
+4. Enter the code, and then Sign in with the Qwiklabs credentials and then click on the Enroll Quest button for the Quest. 
+5. You should have 9 credits.  To check credits, hover over avatar (your profile) on the top right. It should show: 9 credits.
 
-If you have trouble to get 1 credit to start the first code lab, try these:
-* Repeat the steps 1~6 a few times. sometimes, it just works.
-* On step 6, if you already enrolled, you can unenroll and reenroll.  
-* when you sign out from qwiklab, make sure close all other tabs too. 
-* try to use the incognito window 
-* on Step 9, sometimes, it takes a few minutes to show monthly subscription, so wait a few minutes. if doesn't work, logout and login to see.
-* on Step 8, if you didn't complete the lab or time out, it's ok. you still can move on to step 9 to get monthly subscription. 
-* If try all kinds of ways but still can't get 1 credit or monthly subscription, ask your organizer to share credit with you (each organizer has 200 credits) to unblock you.
+### Lab 1: AI Platform: Qwik Start
+Quest page: https://google.qwiklabs.com/quests/117, 
+Click the first lab:  AI Platform: Qwik Start, to enter the lab.
+1. Before you start the lab, read through the instructions to understand what’s the lab about.
+When you start the lab, the timer will start. You have one hour to complete all steps of this lab. 
+Note: Once the clock starts, you can not pause or stop the clock.
+You can rerun the lab again and again, but every time you restart the lab, you will start all over again.
+The top right Orange label 0/100 shows your progress. It will show 100/100 when you complete all steps in this lab. Then you can click “End Lab” (ignore the warning saying you will lose all data, etc...)
+After you complete the first lab (and make sure you end the lab), you will be automatically granted 30-day pass to continue doing the rest of the labs in your quest.
+When in trouble: Sign out of your Qwiklabs account and sign back in. Note that you will still see prices on labs - but you will be able to use your subscription to take them. When you are prompted for payment, simply click “Use Subscription” to take the lab with your free 1-month pass.
 
-### Work on the first code lab
-* After code lab starts, the timer will start. You have one hour to complete all steps of this lab.  Note:
-  - Once the clock starts, you can not pause or stop the clock
-  - You can rerun the lab again and again, but every time you restart the lab, you will start over again.
-* Follow the steps in the lab
-* Make sure to read all instructions CAREFULLY
-* Click the button to open ‘google console’
-* Login with generated username and password in the lab
-  - DO NOT use your own google account or gmail, you must use the generated account for the lab
-  - Every time you start the new lab, or restart a lab, you must close all previous windows, tabs. You can NOT use any sessions, windows, or user account in the previous labs.
-  - Each lab is self contained, with new user account, sessions, windows, tabs, etc..
-* After logon, open the cloud shell window, run the first command (gcloud auth list), you will have the following output:
-* 
+ 
+2. Start the lab and follow the steps in the lab
+Make sure to read all instructions CAREFULLY.
+Click the button to open ‘google cloud console’
+Login with generated username and password in the lab
+DO NOT use your own google account or gmail or any other accounts, you MUST use the generated account for the lab.
+Every time you start the new lab, or restart a lab, you MUST close all previous windows, tabs. You can NOT use any sessions, windows, or user account in the previous labs.
+
 
 ### How to share credit with others
 * Logon to your qwiklab account 
@@ -55,10 +48,10 @@ If you have trouble to get 1 credit to start the first code lab, try these:
 ### How to check my monthly subscription
 * logon to your qwiklab account
 * go to my account and click "credit & subscription"
-* if you see a list with "one month pass" and check the expiration date (should be the next month from the event date). otherwise, you don't have monthly subscription
+* if you see a list with "one month pass" and check the expiration date (should be the next month from the event date). 
 
 ### How to add badge to linkedin profile
-when you completed all code labs in the quest (for example 5 code labs in the language processing quest), you will win completion badge which you can add to your linkedin profile.
+when you completed all code labs in the quest, you will win completion badge which you can add to your linkedin profile.
 * go to my learning
 * click 'view public profile' at the right top of the page. click make it public
 * you will see the button "add to linkedin" and click 
@@ -73,7 +66,7 @@ when you completed all code labs in the quest (for example 5 code labs in the la
 * You are done. you should see the certificate listed on your linkedin profile. share to your connections with your new badge!
 
 ### Contact
-* we have slack channel for csj event discussion and Q&A. feel free to join with the invitation: https://bit.ly/2RO9TmO
+* we have slack channel for csj event discussion and Q&A. feel free to join with the invitation: https://bit.ly/3iLe40y  (search and join google-ai-ml-workshop channel)
 * My linkedIn: https://www.linkedin.com/in/billliu1202/
 
 
