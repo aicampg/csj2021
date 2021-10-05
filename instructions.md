@@ -1,5 +1,7 @@
 # Google Cloud Study Jam Instructions
-
+## Recordings
+* Video on youtube: https://www.youtube.com/watch?v=9Qxr56xXrJs
+* 
 ## Before the event:
 We’ll use a tool called Qwiklabs, a Google training product. If you’ve used Qwiklabs before, great! Make sure you know your password. If you haven’t, save time by creating a new Qwiklabs account for yourself prior to the class at: [Qwiklab](https://google.qwiklabs.com/users/sign_up). (creating an account is free). 
 
@@ -69,6 +71,6 @@ when you completed all code labs in the quest, you will win completion badge whi
 ### Contact
 * we have slack channel for csj event discussion and Q&A. feel free to join with the invitation: https://bit.ly/3iLe40y  (search and join google-ai-ml-workshop channel)
 * My linkedIn: https://www.linkedin.com/in/billliu1202/
-* Video on youtube: https://www.youtube.com/watch?v=9Qxr56xXrJs
+
 
 
