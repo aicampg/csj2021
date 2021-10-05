@@ -1,2 +1,2 @@
-# csj2019
-troubleshooting doc
+# GoogleCloudStudyJam
+instructions
