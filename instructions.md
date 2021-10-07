@@ -14,8 +14,8 @@ Follow the steps to get credits:
 1. Make sure to log out of Qwiklab first if you already signed in.
 2. Open “incognito window” on Chrome and Go to: https://go.qwiklabs.com/cloud-study-jams-2021 and scroll down to section ‘Machine Learning & Artificial Intelligence’  for the Quest: Perform Foundational Data, ML, and AI Tasks, and click “Enroll”
 3.  You will be prompted to enter your study jam code:
-          **1s-seattle-3278**
-          (note: the code only works on October 4~5, 2021)
+          **1s-seattle-5353**
+          (note: the code only works on the two days: Oct. 7th and 8th, 2021)
 4. Enter the code, and then Sign in with the Qwiklabs credentials and then click on the Enroll Quest button for the Quest. 
 5. You should have 9 credits.  To check credits, hover over avatar (your profile) on the top right. It should show: 9 credits.
 6. If you don't see the credits, try the following steps: 
