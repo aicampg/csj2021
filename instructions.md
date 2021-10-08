@@ -3,7 +3,7 @@
 * Video on youtube: https://www.youtube.com/watch?v=9Qxr56xXrJs
 * 
 ## Before the event:
-We’ll use a tool called Qwiklabs, a Google training product. If you’ve used Qwiklabs before, great! Make sure you know your password. If you haven’t, save time by creating a new Qwiklabs account for yourself prior to the class at: [Qwiklab](https://google.qwiklabs.com/users/sign_up). (creating an account is free). 
+We’ll use a website called Qwiklabs, a Google training website. If you’ve used Qwiklabs before, great! Make sure you know your password. If you haven’t, save time by creating a new Qwiklabs account for yourself prior to the class at: [Qwiklab](https://google.qwiklabs.com/users/sign_up). (creating an account is free). 
 
 ## During the event
 ### Get credits to run the first lab for free
@@ -11,12 +11,12 @@ Many code labs on Qwiklab are paid courses, you need to buy credits for running 
 At the event, we’ll give you a link and access code for free Qwiklabs access. Make sure you check the opt-in box for promos, especially because that makes you eligible for additional free access after you complete the first series of labs.
 
 Follow the steps to get credits:
-1. Make sure to log out of Qwiklab first if you already signed in.
+1. Make sure to log out of Qwiklab first if you already signed in. If you don't have Qwiklab account yet, create one first: [Qwiklab](https://google.qwiklabs.com/users/sign_up).  
 2. Open “incognito window” on Chrome and Go to: https://go.qwiklabs.com/cloud-study-jams-2021 and scroll down to section ‘Machine Learning & Artificial Intelligence’  for the Quest: Perform Foundational Data, ML, and AI Tasks, and click “Enroll”
 3.  You will be prompted to enter your study jam code:
           **1s-seattle-5353**
           (note: the code only works on the two days: Oct. 7th and 8th, 2021)
-4. Enter the code, and then Sign in with the Qwiklabs credentials and then click on the Enroll Quest button for the Quest. 
+4. Enter the code, and then Sign in Qwiklabs and then click on the Enroll Quest button for the Quest. 
 5. You should have 9 credits.  To check credits, hover over avatar (your profile) on the top right. It should show: 9 credits.
 6. If you don't see the credits, try the following steps: 
    * refresh the page. 
