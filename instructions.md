@@ -12,10 +12,10 @@ At the event, we’ll give you a link and access code for free Qwiklabs access. 
 
 Follow the steps to get credits:
 1. Make sure to log out of Qwiklab first if you already signed in. If you don't have Qwiklab account yet, create one first: [Qwiklab](https://google.qwiklabs.com/users/sign_up).  
-2. Open “incognito window” on Chrome and Go to: https://go.qwiklabs.com/cloud-study-jams-2021 and scroll down to section ‘Machine Learning & Artificial Intelligence’  for the Quest: Explore Machine Learning Models with Explainable AI, and click “Enroll”
+2. Open “incognito window” on Chrome and Go to: https://go.qwiklabs.com/cloud-study-jams-2021 and scroll down to section ‘Machine Learning & Artificial Intelligence’  for the Quest: 'Perform Foundational Data, ML, and AI Tasks', and click “Enroll”
 3.  You will be prompted to enter your study jam code:
-          **1s-bellevue-2121**
-          (note: the code only works on the two days: Oct. 21st and 22nd, 2021)
+          **1s-seattle-0932**
+          (note: the code only works on the two days: Dec. 8~9, 2021)
 4. Enter the code, and then Sign in Qwiklabs and then click on the Enroll Quest button for the Quest. 
 5. You should have 9 credits now.  To check credits, hover over avatar (your profile) on the top right. It should show: 9 credits.
 6. If you don't see the credits, try the following steps: 
